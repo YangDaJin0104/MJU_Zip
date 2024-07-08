@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: apolo
+Build-Jdk: 16.0.2
+Class-Path: lib/json-simple-1.1.jar
+Main-Class: launcher.Main
+Created-By: Maven Integration for Eclipse
+

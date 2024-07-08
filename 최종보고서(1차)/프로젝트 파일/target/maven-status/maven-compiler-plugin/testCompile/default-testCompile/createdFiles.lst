@@ -1,0 +1,12 @@
+AlgorithmTest\Entity\Frequency.class
+serialization\SerializationOutputTest.class
+AlgorithmTest\Entity\HuffmanEntity.class
+serialization\SerializationInputTest.class
+AlgorithmTest\HuffmanDecompress.class
+AlgorithmTest\HuffmanCompress.class
+AlgorithmTest\Test.class
+AlgorithmTest\Tuple.class
+service\test.class
+Binary\LoopTest.class
+AlgorithmTest\LZ77Test.class
+serialization\RealCompressTest.class
